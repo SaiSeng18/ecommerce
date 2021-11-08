@@ -3,7 +3,7 @@ import { AppBar, Toolbar, IconButton, Badge, Typography } from '@material-ui/cor
 import { ShoppingCart } from '@material-ui/icons';
 import { Link, useLocation } from 'react-router-dom';
 
-import FormInput from '../CheckoutForm/CustomTextField'
+// import FormInput from '../CheckoutForm/CustomTextField'
 
 import logo from '../../assets/shop.svg'
 
