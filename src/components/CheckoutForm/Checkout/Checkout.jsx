@@ -33,6 +33,7 @@ const Checkout = ({ cart, onCaptureCheckout, order, error }) => {
 
         generateToken();
         }
+        // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [cart]);
 
     const test = (data) => {
